@@ -1,8 +1,8 @@
 # Libraries Backend Part
 
-This project is manages books catalog in some libraries.
+This project manages books catalog in some libraries.
 
-It let find books in one or some libraries, order books or return them.
+It lets find books in one or some libraries, order books or return them.
 
 ## Database server
 
@@ -12,9 +12,9 @@ To start project you should run command for a database server:
 
 Navigate to `http://localhost:3000/` to manage JSON Server which is used as Database in the project.
 
-Database now is hold two arrays of objects: one for users who are login to the library,
+Database now is holding two arrays of objects: the first for the users who log in to the library,
 
-second to hold information about the books.
+the second to hold information about the books.
 
 1) Navigate to `http://localhost:3000/books` to watch list of books.
 
