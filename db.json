@@ -5,18 +5,6 @@
       "email": "test@test.by",
       "password": "123456",
       "name": "test"
-    },
-    {
-      "email": "test@hello.by",
-      "password": "123456789",
-      "name": "alexander",
-      "id": 2
-    },
-    {
-      "email": "test@test.mail",
-      "password": "123456789",
-      "name": "testUser",
-      "id": 3
     }
   ],
   "title": {
